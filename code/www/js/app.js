@@ -19,8 +19,8 @@ angular.module('starter', ['ionic'])
     window.parsePlugin.initialize('oTXA0oymtNoMNUX5fCJJFlXMbVG3ZRQYv4SJ4FxY', '8KE5L5O0IH0BYeukhLRRh75NJY1UQbfoe3VvXYe5', function() {
        console.log('Parse initialized successfully.');
 
-      window.parsePlugin.initialize('oTXA0oymtNoMNUX5fCJJFlXMbVG3ZRQYv4SJ4FxY', '8KE5L5O0IH0BYeukhLRRh75NJY1UQbfoe3VvXYe5', function() {
-           console.log('Parse initialized successfully.');
+      // window.parsePlugin.initialize('oTXA0oymtNoMNUX5fCJJFlXMbVG3ZRQYv4SJ4FxY', '8KE5L5O0IH0BYeukhLRRh75NJY1UQbfoe3VvXYe5', function() {
+      //      console.log('Parse initialized successfully.');
 
       window.parsePlugin.subscribe('SampleChannel', function() {
         console.log('Successfully subscribed to SampleChannel.');
