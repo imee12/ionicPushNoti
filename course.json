@@ -1,0 +1,13 @@
+{
+  "title": "Sending & Receiving Push Notifications in Ionic Apps",
+  "url": "ionic-push-notifications-tutorial",
+  "version": "v1.0",
+  "twitter": "EricSimons40",
+  "coverImage": "images/cover.jpg",
+  "description": "In this tutorial we demystify one of the most common (and frustrating) parts of building mobile apps: push notifications.",
+  "git": "https://github.com/EricSimons/ionic-push-notifications-course",
+
+  "author": {
+    "github": "ericsimons"
+  }
+}

@@ -1,0 +1,23 @@
+2015-09-23 10:47:40.820 parse[49017:4376035] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/imee/Library/Developer/CoreSimulator/Devices/F309870D-EF4C-47BE-8399-436EB5E296EA/data/Containers/Data/Application/B3C4DAF2-2521-49AC-86C7-EAE8518F6B83/Library/Cookies/Cookies.binarycookies
+2015-09-23 10:47:41.218 parse[49017:4376035] Apache Cordova native platform version 3.8.0 is starting.
+2015-09-23 10:47:41.218 parse[49017:4376035] Multi-tasking -> Device: YES, App: YES
+2015-09-23 10:47:41.241 parse[49017:4376035] Unlimited access to network resources
+2015-09-23 10:47:42.151 parse[49017:4376035] Resetting plugins due to page load.
+2015-09-23 10:47:42.382 parse[49017:4376035] Finished load of: file:///Users/imee/Library/Developer/CoreSimulator/Devices/F309870D-EF4C-47BE-8399-436EB5E296EA/data/Containers/Bundle/Application/8D921434-1709-449A-B747-EE8776E14B66/parse.app/www/index.html
+2015-09-23 14:46:43.802 parse[49668:4401309] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/imee/Library/Developer/CoreSimulator/Devices/F309870D-EF4C-47BE-8399-436EB5E296EA/data/Containers/Data/Application/A2FB304E-B27F-4C81-AF84-E2DE8AB75FF5/Library/Cookies/Cookies.binarycookies
+2015-09-23 14:46:44.137 parse[49668:4401309] Apache Cordova native platform version 3.8.0 is starting.
+2015-09-23 14:46:44.137 parse[49668:4401309] Multi-tasking -> Device: YES, App: YES
+2015-09-23 14:46:44.162 parse[49668:4401309] Unlimited access to network resources
+2015-09-23 14:46:44.932 parse[49668:4401309] Resetting plugins due to page load.
+2015-09-23 14:46:45.187 parse[49668:4401309] Finished load of: file:///Users/imee/Library/Developer/CoreSimulator/Devices/F309870D-EF4C-47BE-8399-436EB5E296EA/data/Containers/Bundle/Application/2DD048D3-0727-4E7C-9BBF-EE445FFDC979/parse.app/www/index.html
+2015-09-24 10:27:34.060 parse[54580:4601413] Apache Cordova native platform version 3.8.0 is starting.
+2015-09-24 10:27:34.066 parse[54580:4601413] Multi-tasking -> Device: YES, App: YES
+2015-09-24 10:27:34.104 parse[54580:4601413] Unlimited access to network resources
+2015-09-24 10:27:34.778 parse[54580:4601413] active
+2015-09-24 10:27:34.790 parse[54580:4601413] Attempting to badge the application icon but haven't received permission from the user to badge the application
+2015-09-24 10:27:35.333 parse[54580:4601413] Resetting plugins due to page load.
+2015-09-24 10:27:35.704 parse[54580:4601413] Finished load of: file:///Users/imee/Library/Developer/CoreSimulator/Devices/F309870D-EF4C-47BE-8399-436EB5E296EA/data/Containers/Bundle/Application/BDB99D0A-C861-4EAA-9561-E95B7FA8A26B/parse.app/www/index.html
+2015-09-24 10:27:35.829 parse[54580:4601413] THREAD WARNING: ['ParsePlugin'] took '17.502930' ms. Plugin should use a background thread.
+2015-09-24 10:27:35.956 parse[54580:4601413] THREAD WARNING: ['ParsePlugin'] took '121.591797' ms. Plugin should use a background thread.
+2015-09-24 10:27:35.958 parse[54580:4601413] Invalid callback id received by sendPluginResult
+2015-09-24 10:27:43.645 parse[54580:4601413] active
